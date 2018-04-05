@@ -10,5 +10,7 @@ package praktek01;
  * @author proWindows 10
  */
 public class TelevisiAksi {
-    
+    public static void main(String[] args) {
+        Televisi Samsung = new Televisi();
+    }
 }
