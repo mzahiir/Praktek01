@@ -12,5 +12,11 @@ package praktek01;
 public class TelevisiAksi {
     public static void main(String[] args) {
         Televisi Samsung = new Televisi();
+        
+        Samsung.Jenis="Samsung 564GHJ";
+        Samsung.HD="Ya";
+        Samsung.Resulution="1080P";
+        Samsung.Ukuran="Besar";
+        Samsung.Warna="Hitam";
     }
 }
