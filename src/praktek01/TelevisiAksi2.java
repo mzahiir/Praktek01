@@ -18,5 +18,7 @@ public class TelevisiAksi2 {
         Sharp.Resulution="720P";
         Sharp.Ukuran="Sedang";
         Sharp.Warna="Abu-Abu ";
+        
+        Sharp.cetakInfo();
     }
 }
