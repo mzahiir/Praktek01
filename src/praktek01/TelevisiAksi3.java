@@ -19,7 +19,6 @@ public class TelevisiAksi3 {
         LG.Ukuran="Besar";
         LG.Warna="Merah";
         
-        LG.cetakInfo();
     }
     
 }
