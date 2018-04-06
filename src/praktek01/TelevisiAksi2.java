@@ -12,5 +12,11 @@ package praktek01;
 public class TelevisiAksi2 {
     public static void main(String[] args) {
         Televisi Sharp = new Televisi();
+         
+        Sharp.Jenis="Sharp GD5I";
+        Sharp.HD="Ya";
+        Sharp.Resulution="720P";
+        Sharp.Ukuran="Sedang";
+        Sharp.Warna="Abu-Abu ";
     }
 }
