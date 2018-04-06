@@ -12,6 +12,14 @@ package praktek01;
 public class TelevisiAksi3 {
     public static void main(String[] args) {
         Televisi LG = new Televisi();
+        
+        LG.Jenis="LG L456G";
+        LG.HD="Ya";
+        LG.Resulution="1080P";
+        LG.Ukuran="Besar";
+        LG.Warna="Merah";
+        
+        LG.cetakInfo();
     }
     
 }
