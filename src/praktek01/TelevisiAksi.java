@@ -18,5 +18,7 @@ public class TelevisiAksi {
         Samsung.Resulution="1080P";
         Samsung.Ukuran="Besar";
         Samsung.Warna="Hitam";
+        
+        Samsung.cetakInfo();
     }
 }
